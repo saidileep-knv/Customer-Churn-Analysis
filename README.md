@@ -1,5 +1,7 @@
 # Customer Churn Analysis
-Predictive analytics use churn prediction models that predict customer churn by assessing their propensity of risk to churn. Customer attrition, also known as customer churn, or customer turnover is the loss of clients or customers. Customer attrition analysis, one of the key business metric is important as the cost of retaining a customer is far less than acquiring a new one.
+Predictive analytics use churn prediction models that predict customer churn by assessing their propensity of risk to churn. 
+
+Customer attrition, also known as customer churn, or customer turnover is the loss of clients or customers. Customer attrition analysis, one of the key business metric is important as the cost of retaining a customer is far less than acquiring a new one.
 
 ## Dataset
 The telco customer churn data contains information about a fictional telco company that provided home phone and Internet services to 7043 customers in California in Q3. 
